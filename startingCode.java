@@ -4,7 +4,7 @@ package projects.bankProject;
 import java.sql.*;
 import java.util.Scanner;
 
-public class Main {
+public class startingCode {
     public static void main(String[] args) {
 
         boolean checker = true;
